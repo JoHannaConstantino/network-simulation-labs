@@ -3,7 +3,6 @@ Cisco Packet Tracer projects covering core networking concepts and configuration
 
 ## Included Labs
 - **VLAN Configuration** – Segregating network traffic for security and efficiency.
-- **Trunking** – VLAN communication across switches.
 - **Router-on-a-Stick (Inter-VLAN Routing)** – Routing between VLANs using a single router interface.
 - **Switch and Router Configurations** – Basic to advanced switch and router setup and management.
 - **DHCP** – Automatic IP address assignment.
